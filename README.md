@@ -75,7 +75,7 @@ Support Me
 * [`Saweria`](https://saweria.co/DikaArdnt)
 
 ## Contact Me
-* [`Wangsap`](https://wa.me/6288292024190)
+* [`Wangsap`](https://wa.me/6285822558496)
 * [`Igeh`](https://instagram.com/cak_haho)
 * [`Pesbuk`](https://www.facebook.com/Haho.id)
 
