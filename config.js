@@ -59,7 +59,7 @@ global.APIKeys = {
 global.owner = [ '6285822558496' ]
 
 
-global.premium = ['6285787349774']
+global.premium = ['6285822558496']
 
 
 global.packname = 'Saleh Ganzz'
